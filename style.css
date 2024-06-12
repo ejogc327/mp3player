@@ -1,0 +1,14 @@
+.mp3-player {
+    width: 350px;
+    border: solid 1px black;
+}
+
+.playlist {
+    width: 350px;
+    border: solid 1px black;
+}
+
+.art-box img {
+    max-width: 350px;
+    max-height: 350px;
+}
